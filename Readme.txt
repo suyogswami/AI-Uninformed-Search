@@ -1,5 +1,4 @@
 Name: Suyog Siddheshwar Swami
-Student ID: 1001119101
 
 Programming language used: Python 2.4.3
 
